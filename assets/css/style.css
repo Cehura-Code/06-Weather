@@ -1,0 +1,16 @@
+*  {
+  color: white;
+  background-color: grey;
+}
+
+.card-body {
+  background-color: green;
+}
+
+h1 {
+  background-color: green;
+}
+
+h2 {
+  background-color: grey;
+}
