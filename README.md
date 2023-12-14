@@ -40,3 +40,4 @@ Any questions about this application, feel free to contact me.
 
 ## License
 This product is under the MIT License.
+(./LICENSE)
